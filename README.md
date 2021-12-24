@@ -1,5 +1,8 @@
 # openxeggo-contracts-money-streaming
 
+## Contribution guidelines
+View Contribution guidelines [here](CONTRIBUTING.md)
+
 ## Run Locally
 
 ### Clone
